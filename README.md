@@ -1,2 +1,61 @@
-# minecraft-opengl-replacements-and-rendering-mods
-minecraft opengl replacements and rendering mods
+# Minecraft Opengl Replacements And Rendering Mods
+
+<p align="center">
+  <a href="">
+  </a>
+</p>
+<p align="center">
+  </a>
+</p>
+
+
+
+A non-exhaustive collection of Mods and Replacement Opengl renders.
+
+## Table of Contents
+
+- [Minecraft Opengl Replacements And Rendering Mods](#Minecraft Opengl Replacements And Rendering Mods)
+	- [Table of Contents](#table-of-contents)
+	- [Full Opengl Replacements](#Full Opengl Replacements)
+		- [opengl render improvements(like sodium or optifine)](#opengl render improvements(like sodium or optifine))
+	- [Contributing](#contributing)
+	- [Further comments](#further-comments)
+	- [Disclaimer](#disclaimer)
+
+## Full Opengl Replacements
+
+| Name | Link | Infos |
+| :---: | :---: | :---: |
+| [Vulkan Mod](https://github.com/xCollateral/VulkanMod) | [Web](https://media.forgecdn.net/avatars/thumbnails/561/294/64/64/637913373178716740.png),Replaces render with vulkan for latest |
+| [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | [Web](https://static.wikia.nocookie.net/callofduty/images/a/a0/ELITE_Nova_Gas.png/revision/latest?cb=20120106131652), replaces render with vulkan for old|
+
+
+### opengl render improvements(like sodium or optifine)
+
+| Name | Features |picture | Development Status |
+| :---: | :---: | :---: | :---: |
+|[ThreatenGL](https://github.com/Numelon-Softworks/ThreatenGL) |ThreatenGL is a Minecraft mod that takes a stand against the outdated OpenGL version 3.2, threatening Minecraft to use the more modern version 4.6. This mod aims to explore the effects of this change. | 🟢 Active |
+|[Neodymium](https://github.com/makamys/Neodymium) |Neodymium is a Minecraft mod that takes a stand against the outdated OpenGL version 3.2, threatening Minecraft to use the more modern version 4.6. This mod aims to explore the effects of this change.But for 1.17.10 | 🟢 Active |
+|[ForceGL20](https://github.com/KabanFriends/ForceGL20) |A Minecraft mod for Fabric & Forge that forces the game to use OpenGL 2.0 since in 1.17.2 they switched to 3.6 which old computers cannot use. | 🟢 Active |
+|[ForceGL2.0-Remapped](https://www.curseforge.com/minecraft/mc-mods/forcegl2-0-remapped) |A Minecraft mod for Fabric & Forge that forces the game to use OpenGL 2.0 since in 1.17.2 they switched to 3.6 which old computers cannot use. THIS ONE IS UP TO DATE | 🟢 Active |
+|[Sodium](https://github.com/CaffeineMC/sodium) |Sodium is a powerful rendering engine and optimization mod for the Minecraft client which improves frame rates and reduces micro-stutter, while fixing many graphical issues in Minecraft. | 🟢 Active |
+|[Sodium Backport 1.15.2](https://github.com/mrmangohands/sodium-fabric/releases/tag/mc1.15.2-0.1.1-SNAPSHOT%2B2020-12-10) |Sodium is a powerful rendering engine and optimization mod for the Minecraft client which improves frame rates and reduces micro-stutter, while fixing many graphical issues in Minecraft. | 🟢 Active |
+|[Sodium Backport 1.16.2](https://github.com/jan-leila/sodium-fabric/releases) |Sodium is a powerful rendering engine and optimization mod for the Minecraft client which improves frame rates and reduces micro-stutter, while fixing many graphical issues in Minecraft. | 🟢 Active |
+|[Rubidium](https://modrinth.com/mod/rubidium) |Forge port of sodium | 🟢 Active |
+|[Embeddium](https://github.com/FiniteReality/embeddium) |Forge port of sodium but with a E | 🟢 Active |
+|[optifine](https://optifine.net/home) |OptiFine is a Minecraft optimization mod.The OG Closed Source Mod. | 🟢 Active |
+|[optifabric](https://github.com/Chocohead/OptiFabric) |Fabric port of optifine | 🟢 Active |
+
+## Contributing
+
+Please refer to [CONTRIBUTING.md](/.github/CONTRIBUTING.md) if you want to contribute to this project.
+
+## Further comments
+
+Will update as needed!
+
+If you would like feel free to reach out to [Nekopara#4266](https://discord.com/users/1074227433395470376) (Head of Team) on the Discord:
+
+## Disclaimer
+
+We (contributors) are not responsible for you getting banned from using a 3rd party or you getting kicked from servers.We are also not responsible if your pc breaks from using any of these mods.thank you.
