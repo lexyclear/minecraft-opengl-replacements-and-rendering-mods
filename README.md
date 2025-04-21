@@ -25,7 +25,7 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 ## Full Opengl Replacements
 
 | Name | info |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | [Vulkan Mod](https://github.com/xCollateral/VulkanMod) |Replaces render with vulkan for latest |
 | [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | replaces render with vulkan for old|
 
