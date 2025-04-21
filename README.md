@@ -24,10 +24,10 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 
 ## Full Opengl Replacements
 
-| Name | Link | Infos |
+| Name | info |
 | :---: | :---: | :---: |
-| [Vulkan Mod](https://github.com/xCollateral/VulkanMod) | [Web](https://media.forgecdn.net/avatars/thumbnails/561/294/64/64/637913373178716740.png),Replaces render with vulkan for latest |
-| [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | [Web](https://static.wikia.nocookie.net/callofduty/images/a/a0/ELITE_Nova_Gas.png/revision/latest?cb=20120106131652), replaces render with vulkan for old|
+| [Vulkan Mod](https://github.com/xCollateral/VulkanMod) |Replaces render with vulkan for latest |
+| [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | replaces render with vulkan for old|
 
 
 ### opengl render improvements(like sodium or optifine)
