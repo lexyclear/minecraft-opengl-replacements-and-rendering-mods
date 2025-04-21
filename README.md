@@ -32,8 +32,8 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 
 ### opengl render improvements(like sodium or optifine)
 
-| Name | Features |status | idk |
-| :---: | :---: | :---: | :---: |
+| Name | Features |status |
+| :---: | :---: | :---: |
 |[ThreatenGL](https://github.com/Numelon-Softworks/ThreatenGL) |ThreatenGL is a Minecraft mod that takes a stand against the outdated OpenGL version 3.2, threatening Minecraft to use the more modern version 4.6. This mod aims to explore the effects of this change. | 🟢 Active |
 |[Neodymium](https://github.com/makamys/Neodymium) |Neodymium is a Minecraft mod that takes a stand against the outdated OpenGL version 3.2, threatening Minecraft to use the more modern version 4.6. This mod aims to explore the effects of this change.But for 1.17.10 | 🟢 Active |
 |[ForceGL20](https://github.com/KabanFriends/ForceGL20) |A Minecraft mod for Fabric & Forge that forces the game to use OpenGL 2.0 since in 1.17.2 they switched to 3.6 which old computers cannot use. | 🟢 Active |
