@@ -14,10 +14,10 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 
 ## Table of Contents
 
-- [Minecraft Opengl Replacements And Rendering Mods](#Minecraft Opengl Replacements And Rendering Mods)
+- [Minecraft Opengl Replacements And Rendering Mods](#minecraft-opengl-replacements-and-rendering-mods)
 	- [Table of Contents](#table-of-contents)
-	- [Full Opengl Replacements](#Full Opengl Replacements)
-		- [opengl render improvements(like sodium or optifine)](#opengl render improvements(like sodium or optifine))
+	- [Full Opengl Replacements](#full-opengl-replacements)
+		- [opengl render improvements(like sodium or optifine)](#opengl-render-improvementslike-sodium-or-optifine)
 	- [Contributing](#contributing)
 	- [Further comments](#further-comments)
 	- [Disclaimer](#disclaimer)
