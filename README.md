@@ -54,7 +54,7 @@ Please refer to [CONTRIBUTING.md](/.github/CONTRIBUTING.md) if you want to contr
 
 Will update as needed!
 
-If you would like feel free to reach out to [Nekopara#4266](https://discord.com/users/1074227433395470376) (Head of Team) on Discord.
+If you would like feel free to reach out to [Nekopara#4266](https://discord.com/users/1074227433395470376) on Discord.
 
 ## Disclaimer
 
