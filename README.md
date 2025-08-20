@@ -28,6 +28,7 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 | :---: | :---: |
 | [Vulkan Mod](https://github.com/xCollateral/VulkanMod) |Replaces render with vulkan for latest |
 | [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | replaces render with vulkan for old|
+| [wgpu-mc]([https://github.com/wgpu-mc/wgpu-mc) | is a standalone WebGPU rendering engine written in Rust using the wgpu crate. The project was started in late 2021 as a pet project to create a new rendering engine for Minecraft to replace the existing OpenGL renderer.|
 
 
 ### opengl render improvements(like sodium or optifine)
