@@ -46,6 +46,8 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 |[Embeddium](https://github.com/FiniteReality/embeddium) |Forge port of sodium but with a E | 🟢 Active |
 |[optifine](https://optifine.net/home) |OptiFine is a Minecraft optimization mod.The OG Closed Source Mod. | 🟢 Active |
 |[optifabric](https://github.com/Chocohead/OptiFabric) |Fabric port of optifine | 🟢 Active |
+|[Nvidium](https://github.com/MCRcortex/nvidium) |is an alternate rendering backing for sodium, it uses cutting edge nvidia features to render huge amounts of terrain geometry at very playable framerates.Requires 1600 card or newer | 🟢 Active |
+|[Acedium](https://github.com/ferriarnus/acedium) |Acedium is a (neo)forge port of Nvidium. Nvidium is an alternate rendering backing for sodium, it uses cutting edge nvidia features to render huge amounts of terrain geometry at very playable framerates. | 🟢 Active |
 
 ## Contributing
 
