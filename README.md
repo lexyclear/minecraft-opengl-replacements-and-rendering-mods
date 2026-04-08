@@ -29,6 +29,8 @@ A non-exhaustive collection of Mods and Replacement Opengl renders.
 | [Vulkan Mod](https://github.com/xCollateral/VulkanMod) |Replaces render with vulkan for latest |
 | [Nova Renderer](https://github.com/ngkaho1234/nova-renderer) | replaces render with vulkan for old|
 | [wgpu-mc](https://github.com/wgpu-mc/wgpu-mc) | is a standalone WebGPU rendering engine written in Rust using the wgpu crate. The project was started in late 2021 as a pet project to create a new rendering engine for Minecraft to replace the existing OpenGL renderer.|
+| [metalmine 1.21 to 1.21.9](https://www.curseforge.com/minecraft/mc-mods/metalmine) | is a standalone Apple’s Metal API rendering engine written with MetalFX and RT baked in settings. The project was started in late 2025 as a pet project to create a new rendering engine for Minecraft to replace the existing OpenGL renderer for macs,it lacks a github.|
+
 
 
 ### opengl render improvements(like sodium or optifine)
